@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-27T19:22:37.498Z'
+datePublished: '2016-02-27T19:32:18.921Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: All fixed up
-dateModified: '2016-02-27T19:22:36.557Z'
+dateModified: '2016-02-27T19:32:06.751Z'
 sourcePath: _posts/2016-02-27-all-fixed-up.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
