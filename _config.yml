@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8694951
+  lightness: 0.6439313
+  brandStrength: 0.933942
+  brandColors:
+    - '#657FC7'
+    - '#425243'
+    - '#C5D8EA'
+    - '#878989'
+    - '#0F1420'
+  rhythmicContrast: 0.6535982
+typography_spectrum: 0.349624
+name: '#acltorino'
