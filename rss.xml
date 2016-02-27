@@ -4,8 +4,15 @@
         <description><![CDATA[#acltorino]]></description>
         <link>https://thegrid.ai/acltorino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 19:33:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acltorino/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All fixed up]]></title>
+            <description><![CDATA[<article><h1>All fixed up</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/927aadf1d90dfe1105584ed796dd570ab65b1f0b.png"></article>]]></description>
+            <link>https://thegrid.ai/acltorino/all-fixed-up/index.html</link>
+            <guid isPermaLink="false">9a547805-d7a0-4fb1-bd3d-c97868ad1701</guid>
+            <pubDate>Sat, 27 Feb 2016 19:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ACL Torino on Twitter]]></title>
             <description><![CDATA[<h1>ACL Torino on Twitter</h1>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/acltorino/day-1-at-980-howe/index.html</link>
             <guid isPermaLink="false">598869e0-3de2-4968-867e-1d9dbf7946cd</guid>
             <pubDate>Sat, 27 Feb 2016 19:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All fixed up]]></title>
-            <description><![CDATA[<article><h1>All fixed up</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/927aadf1d90dfe1105584ed796dd570ab65b1f0b.png"></article>]]></description>
-            <link>https://thegrid.ai/acltorino/all-fixed-up/index.html</link>
-            <guid isPermaLink="false">9a547805-d7a0-4fb1-bd3d-c97868ad1701</guid>
-            <pubDate>Sat, 27 Feb 2016 19:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
