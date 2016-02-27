@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[#acltorino]]></title>
         <description><![CDATA[#acltorino]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acltorino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:23:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 19:25:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acltorino/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day 1 at 980 Howe]]></title>
+            <description><![CDATA[<article><h1>Day 1 at 980 Howe</h1><p>No doubt #aclspirit is in da place! You can't miss our new office at Howe and Nelson in #Vancouver</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4070227c6d2034bd031aafac31098006a2ed21da.jpg"></article>]]></description>
+            <link>https://thegrid.ai/acltorino/day-1-at-980-howe/index.html</link>
+            <guid isPermaLink="false">598869e0-3de2-4968-867e-1d9dbf7946cd</guid>
+            <pubDate>Sat, 27 Feb 2016 19:24:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All fixed up]]></title>
-            <description><![CDATA[<article><h1>All fixed up</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ac5bec0-55cd-4953-aff0-e9a626be675b.png"></article>]]></description>
-            <link>undefinedall-fixed-up/index.html</link>
+            <description><![CDATA[<article><h1>All fixed up</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/927aadf1d90dfe1105584ed796dd570ab65b1f0b.png"></article>]]></description>
+            <link>https://thegrid.ai/acltorino/all-fixed-up/index.html</link>
             <guid isPermaLink="false">9a547805-d7a0-4fb1-bd3d-c97868ad1701</guid>
             <pubDate>Sat, 27 Feb 2016 19:22:37 GMT</pubDate>
         </item>
