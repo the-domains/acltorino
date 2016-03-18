@@ -4,7 +4,7 @@
         <description><![CDATA[#acltorino]]></description>
         <link>https://thegrid.ai/acltorino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 22:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 21:59:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acltorino/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A legend is born]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/acltorino/a-legend-is-born/index.html</link>
             <guid isPermaLink="false">c04330c2-a3f7-49e1-b416-aafa5ebb0fcc</guid>
             <pubDate>Sat, 27 Feb 2016 19:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open house]]></title>
+            <description><![CDATA[<article><h1>Open house</h1><p>Stopping by the ACL job fair? Get a selfie with the #acltorino! #aclspirit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8671bbc35030654be60073a15f65b6dd2ce76165.jpg"></article>]]></description>
+            <link>https://twitter.com/aclservices/status/710256916769865729</link>
+            <guid isPermaLink="false">bdd0ddfc-2bf3-44ef-a531-848a1742c91a</guid>
+            <pubDate>Fri, 18 Mar 2016 21:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sunny day in the streets of Vancouver]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/rolandflutet/status/702606881534021632</link>
             <guid isPermaLink="false">1e99a6e8-353c-4f27-b24a-3145742e24e0</guid>
             <pubDate>Sat, 27 Feb 2016 19:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Day 1 at 980 Howe]]></title>
-            <description><![CDATA[<article><h1>Day 1 at 980 Howe</h1><p>No doubt #aclspirit is in da place! You can't miss our new office at Howe and Nelson in #Vancouver</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4070227c6d2034bd031aafac31098006a2ed21da.jpg"></article>]]></description>
-            <link>https://thegrid.ai/acltorino/day-1-at-980-howe/index.html</link>
-            <guid isPermaLink="false">598869e0-3de2-4968-867e-1d9dbf7946cd</guid>
-            <pubDate>Sat, 27 Feb 2016 19:24:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
